@@ -1,0 +1,9 @@
+# Ignore PyTorch model files
+*.pth
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore large dataset folders (optional)
+data/
+masks/
