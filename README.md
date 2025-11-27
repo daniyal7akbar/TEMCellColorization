@@ -54,7 +54,11 @@ Features
 
 Inference
 visualize(idx) for dataset samples
+<img width="1649" height="541" alt="image" src="https://github.com/user-attachments/assets/6d5ff1a4-ad97-4ce3-a02b-bd14ee028a7a" />
+
 predict_image("img.jpeg") for arbitrary images
+<img width="1303" height="626" alt="image" src="https://github.com/user-attachments/assets/dbb1b56a-4bb4-4416-af35-e87a3625768f" />
+
 
 Use Cases
 • Automated cell segmentation
